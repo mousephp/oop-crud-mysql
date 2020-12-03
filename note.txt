@@ -1,0 +1,16 @@
+Một lỗi không insert được: nguyên nhân trường id=NOT NULL (không tự tăng)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
